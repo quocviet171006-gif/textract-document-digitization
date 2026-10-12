@@ -52,23 +52,5 @@ Các tên và cấu hình trên mô tả môi trường AWS Academy Learner Lab 
 ```text
 .
 ├── README.md
-└── BaoCaoTuan1_da_chinh_sua.docx   # Thêm báo cáo vào repository nếu cần
-```
-
-Khi thêm ảnh minh chứng, nên đặt chúng trong `docs/images/` và liên kết tới từng ảnh từ báo cáo hoặc README.
-
-## Báo cáo và minh chứng
-
-- Repository: <https://github.com/quocviet171006-gif/textract-document-digitization>
-- Báo cáo tuần 1: thêm file báo cáo đã nộp vào repository và cập nhật liên kết trực tiếp tại đây.
-- Ảnh minh chứng: thêm ảnh vào `docs/images/`, sau đó liên kết tới các ảnh cần thiết tại đây.
-
-## Nhật ký thay đổi
-
-Các thay đổi của dự án cần được ghi bằng commit message cụ thể để có thể đối chiếu file đã thêm hoặc chỉnh sửa, ví dụ:
-
-```text
-Add week 1 report and project README
-Document S3 to Lambda smoke test
-Add architecture and AWS resource screenshots
+└── BaoCaoTuan1.docx
 ```
